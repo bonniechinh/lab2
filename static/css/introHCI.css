@@ -33,9 +33,7 @@ body {
      z-index: -1;   
 }
 
-.project{
-  margin-left: 20px;
-  background-color: #deebf7;
-  padding: 20px;
-  width: 525px;
+img {
+     height:350px !important;
+     width: auto;
 }
